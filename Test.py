@@ -1,1 +1,2 @@
-print(" Bonjour ")
+
+print("\nBonjour M. Aymen et mes camarades 😳\nAujourd'hui, GitHub a gagne quelques rounds contre moi.\nAvec environ 3 heures de sommeil en deux jours,\nmon cerveau etait clairement en mode economie d'energie 😂\nMais bonne nouvelle : apres plusieurs essais, ca fonctionne enfin !\nMerci pour votre patience 😊")
